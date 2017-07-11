@@ -1,0 +1,1 @@
+# generate-entity-classes
